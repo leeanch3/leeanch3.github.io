@@ -1,0 +1,25 @@
+body {
+	padding-top: 100px;
+}
+.jumbotron {
+    color: #2c3e50;
+    background: #ecf0f1;
+    text-align: center;
+}
+.navbar-inverse {
+    background: #2c3e50;
+    color: white;
+}
+.navbar-inverse .navbar-brand, .navbar-inverse a{
+    color:white;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+} 
+.col-lg-6, .col-sm-6 {
+	display: inline-block;
+	float: right;
+	vertical-align: middle;
+	padding-top: 100px;
+}
+

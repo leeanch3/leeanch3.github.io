@@ -1,0 +1,30 @@
+body {
+	padding-top: 120px; 
+	background: #ecf0f1;
+	background: url("week7images/ben-wicks-1118947-unsplash.jpg");
+	background-size: 100%;
+}
+.jumbotron {
+    color: black;
+    background: white;
+    text-align: center;
+}
+.navbar-inverse {
+    background: #2c3e50;
+    color: white;
+}
+.navbar-inverse .navbar-brand, .navbar-inverse a{
+    color:white;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+} 
+.pearls {
+	border-radius: 6px;
+	border-image: round;
+	padding: 70px;
+}
+h1 {
+	font-family: 'Indie Flower', cursive; 
+	color: blue;
+}
