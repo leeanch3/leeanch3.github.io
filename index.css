@@ -8,6 +8,7 @@ body {
     color: black;
     background: white;
     text-align: center;
+    max-width: 100%;
 }
 .navbar-inverse {
     background: #2c3e50;
