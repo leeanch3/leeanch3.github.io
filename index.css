@@ -23,7 +23,7 @@ body {
 	border-radius: 6px;
 	border-image: round;
 	padding: 70px;
-	max-width: 80%;
+	max-width: 100%;
 }
 h1 {
 	font-family: 'Dancing Script', cursive; 
